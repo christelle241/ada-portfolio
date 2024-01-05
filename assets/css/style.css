@@ -11,7 +11,7 @@
 --------------------------------------------------------------*/
 body {
   background: #ffffff;
-  color: #898989;
+  color:#410cf0 ;
   font-family: "Poppins", helvetica;
   font-size: 15px;
   font-weight: 300;
@@ -33,12 +33,12 @@ h6 {
 }
 
 h2 {
-  color: #292929;
+  color: #410cf0;
   font-weight: 600;
 }
 
 h4 {
-  color: #292929;
+  color: #410cf0;
   font-size: 14px;
   font-weight: 600;
 }
@@ -104,7 +104,7 @@ p {
 
 .form-control {
   background-color: transparent;
-  border: 1px solid #999;
+  border: 1px solid #410cf0;
   border-radius: 0;
   color: #999999;
   font-size: 12px;
